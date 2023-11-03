@@ -1,0 +1,10 @@
+.feed__body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.feed__content {
+    max-width: 700px;
+    padding-top: 40px;
+}
